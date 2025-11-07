@@ -1,7 +1,8 @@
 # Varun Naidu | Digital Marketing Strategist  
 
-📧 **Email:** varun.naidu@email.com  
-🔗 **LinkedIn:** [linkedin.com/in/varun-naidu](https://linkedin.com/in/varun-naidu)  
+📧 **Email:** [varunnaiduu7@gmail.com](mailto:varunnaiduu7@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/varun-naidu--/](https://www.linkedin.com/in/varun-naidu--/)  
+💻 **GitHub:** [github.com/VarunNaiduu](https://github.com/VarunNaiduu)  
 🌐 **Portfolio:** [varunnaidu.github.io](https://varunnaidu.github.io)  
 
 ---
@@ -29,15 +30,15 @@ With a hands-on approach to analytics and storytelling, I focus on creating mark
 
 | # | Project Title | Category | Link |
 |---|----------------|-----------|------|
-| 1️⃣ | SEO Case Study – Brewly Café | SEO & Local Optimization | 
-| 2️⃣ | Google Ads Campaign – Cloudify CRM | Google Ads & Lead Gen | 
-| 3️⃣ | Instagram Growth Strategy – Aroma Eats | Social Media Marketing |
-| 4️⃣ | Content Funnel Plan – Techly.io | Content Strategy | 
-| 5️⃣ | Analytics Dashboard – Styleo E-commerce | Data & Reporting | 
-| 6️⃣ | Email Marketing Flow – ShopZen | Email & Automation |
-| 7️⃣ | Landing Page Optimization – GreenFit | CRO & UX | 
-| 8️⃣ | Backlink Strategy – TravelXplore | Off-page SEO |
-| 9️⃣ | SEO Growth – UrbanLuxe Interiors | SEO & Local SEO | 
+| 1️⃣ | SEO Case Study – Brewly Café | SEO & Local Optimization | [View →](projects/brewly-cafe.md) |
+| 2️⃣ | Google Ads Campaign – Cloudify CRM | Google Ads & Lead Gen | [View →](projects/cloudify-crm.md) |
+| 3️⃣ | Instagram Growth Strategy – Aroma Eats | Social Media Marketing | [View →](projects/aroma-eats.md) |
+| 4️⃣ | Content Funnel Plan – Techly.io | Content Strategy | [View →](projects/techly-io.md) |
+| 5️⃣ | Analytics Dashboard – Styleo E-commerce | Data & Reporting | [View →](projects/styleo-ecommerce.md) |
+| 6️⃣ | Email Marketing Flow – ShopZen | Email & Automation | [View →](projects/shopzen.md) |
+| 7️⃣ | Landing Page Optimization – GreenFit | CRO & UX | [View →](projects/greenfit.md) |
+| 8️⃣ | Backlink Strategy – TravelXplore | Off-page SEO | [View →](projects/travelxplore.md) |
+| 9️⃣ | SEO Growth – UrbanLuxe Interiors | SEO & Local SEO | [View →](projects/urbanluxe-interiors.md) |
 
 ---
 
@@ -48,6 +49,9 @@ I’m always exploring smarter ways to blend creativity with measurable results.
 
 💡 *Looking for opportunities where strategy meets execution? Let’s connect!*  
 
-📧 varunnaiduu7@gmail.com | 🔗 [linkedin.com/in/varun-naidu] | 
+📧 [varunnaiduu7@gmail.com](mailto:varunnaiduu7@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/varun-naidu--/)  
+💻 [GitHub](https://github.com/VarunNaiduu)  
+🌐 [Portfolio](https://varunnaidu.github.io)
 
 ---
