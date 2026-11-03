@@ -134,8 +134,8 @@ Then open `http://localhost:8000`.
 **Varun Naidu**
 
 - Email: varunnaiduu7@gmail.com
-- LinkedIn: Add your LinkedIn profile URL
-- Portfolio: Add your published website URL
+- LinkedIn: https://www.linkedin.com/in/varun-naidu--/
+- Portfolio: https://varunnaiduu.github.io/Varun-Naidu-Portfolio/
 
 ---
 
